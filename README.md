@@ -1,4 +1,4 @@
-# 🇮🇷 Iranian Authentication Buddy
+# 🇮🇷 Iranian Authentication
 
 A modern, Persian-language authentication system built with Next.js, featuring Iranian mobile number validation and a beautiful RTL interface.
 
